@@ -81,6 +81,8 @@ Pull requests are very welcome!
 
 We'd love to hear your feedback and suggestions in the issue tracker: [github.com/matomo-org/docker/issues](https://github.com/matomo-org/docker/issues).
 
+;)
+
 ## GeoIP
 
 ~~This product includes GeoLite data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com).~~
